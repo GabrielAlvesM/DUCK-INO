@@ -1,2 +1,8 @@
 # Duck-ino
-Is this a similar to USB Rubber Duck, but using Arduino UNO.
+ - Is this a similar to USB Rubber Duck, but using Arduino UNO.
+
+ - This project  already exist, but I create the my, and create a payloads too, look the code. 
+ 
+ -  My object is update the code as possible, and automatization tasks.
+
+
