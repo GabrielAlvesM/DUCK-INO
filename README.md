@@ -5,4 +5,8 @@
  
  -  My object is update the code as possible, and automatization tasks.
 
+ HOW TO PUSH CODE FOR ARDUINO 
 
+ 1 - Open the code in IDE;
+ 2 - Execute in terminal ./script in paste duck-ino;
+ 3 - And follow tutorial the script;
